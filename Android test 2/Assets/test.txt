@@ -1,0 +1,2 @@
+goblin1 16 3
+goblin2 11 2
